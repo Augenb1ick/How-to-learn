@@ -341,7 +341,7 @@
 .footer__column_content_info {
   display: flex;
   flex-direction: column;
-  align-self: flex-start; 
+  align-self: flex-start;
   margin-bottom: 16px;
   margin-top: 0;
   margin-left: 0;
@@ -356,7 +356,7 @@
   margin-bottom: 16px;
   margin-top: 0;
   margin-left: 0;
-  margin-right: 0; 
+  margin-right: 0;
   padding: 0;
 }
 
@@ -388,7 +388,7 @@
   padding: 0;
   line-height: 30px;
   font-size: 18px;
-  font-weight: normal; 
+  font-weight: normal;
   text-decoration: none;
   color: white;
   height: 10px; 
