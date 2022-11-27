@@ -1,0 +1,16 @@
+@import url(/blocks/content/techniques/cards/__item/cards__item.css);
+@import url(/blocks/content/techniques/cards/__image/cards__image.css);
+@import url(/blocks/content/techniques/cards/__title/cards__title.css);
+@import url(/blocks/content/techniques/cards/__description/cards__description.css);
+
+.cards {
+    width: 920px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 100px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
