@@ -1,5 +1,3 @@
-@import url(/blocks/content/table/__cell/_theme/table__cell_theme_dark.css);
-
 .table__cell {
   width: 250px;
   display: flex;
